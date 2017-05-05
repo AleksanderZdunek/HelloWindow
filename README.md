@@ -1,0 +1,1 @@
+MS Windows basic windows application 'hello world' analogue.Creates and runs a window, and nothing more.
